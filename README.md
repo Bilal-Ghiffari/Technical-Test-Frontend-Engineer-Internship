@@ -2,6 +2,8 @@
 
 A web cake store built with [Mock API](https://611a268fcbf1b30017eb5527.mockapi.io/)
 
+Home Page link: "localhost:3000/cake"
+
 ## ![logo](https://github.githubassets.com/images/icons/emoji/unicode/1f465.png) Project Members
 
 1. Bilal Al Ghiffari
