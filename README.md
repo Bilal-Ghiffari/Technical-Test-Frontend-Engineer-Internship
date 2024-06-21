@@ -1,3 +1,21 @@
+# Cake Store
+
+A web cake store built with [Mock API](https://611a268fcbf1b30017eb5527.mockapi.io/)
+
+## ![logo](https://github.githubassets.com/images/icons/emoji/unicode/1f465.png) Project Members
+
+1. Bilal Al Ghiffari
+
+## ![logo](https://github.githubassets.com/images/icons/emoji/unicode/1f680.png) Tech Used
+
+1. Next.js (React.js Framework)
+2. Tailwind (CSS Framework)
+3. Shadcn/ui (Tailwind UI component)
+4. React Context (State Management)
+5. React Query (management data)
+6. TanStack React Table (build table)
+7. Axios (Promise based HTTP client)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
